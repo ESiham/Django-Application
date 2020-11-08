@@ -7,6 +7,9 @@ from ayomi_test.forms import CustomUserCreationForm, UserChangeForm
 def dashboard(request):
     return render(request, "ayomi_test/dashboard.html")
 
+def loginpage(request):
+    return render(request, "registration/login.html")
+
 def register(request):
     if request.method == "GET":
         return render(
