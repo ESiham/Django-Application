@@ -12,3 +12,8 @@ Setup
 6- first you should create a user via register button and after try to log with this user authentication.
 
 7- finally to edit the user information there a button to do that.
+![alt text](website\media\images\login.PNG)
+
+![alt text](website\media\images\edit.PNG)
+
+![alt text](website\media\images\register.PNG)
